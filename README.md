@@ -7,11 +7,7 @@ Navigating urban environments on a bicycle can be challenging due to incomplete 
 We propose a real-time cycling route optimization model that prioritizes safer paths (service lanes, internal roads) and dynamically adapts to road closures and traffic conditions using online planning with rollouts.
 
 ## Features
-✅ Real-time adaptive route planning
-✅ Avoids unsafe roads & highways
-✅ Online planning with rollouts for better decision-making
-✅ Graph-based road network modeling using OpenStreetMap
-✅ Dynamic weight assignment for road conditions
+✅ Real-time adaptive route planning <br> ✅ Avoids unsafe roads & highways <br> ✅ Online planning with rollouts for better decision-making <br> ✅ Graph-based road network modeling using OpenStreetMap <br> ✅ Dynamic weight assignment for road conditions
 
 ## Installation & Usage
 ```
@@ -24,4 +20,4 @@ python main.py
 ## Contributors
 Riya Arora & Riju Marwah
 
-This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This work is licensed under a Creative Commons Zero v1.0 Universal License.
